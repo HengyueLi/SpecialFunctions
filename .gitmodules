@@ -1,3 +1,6 @@
-[submodule "lib/CodeObject"]
-	path = lib/CodeObject
+[submodule "Depe/CodeObject"]
+	path = Depe/CodeObject
 	url = https://github.com/HengyueLi/CodeObject
+[submodule "Install"]
+	path = Install
+	url = https://github.com/HengyueLi/Fortran_Install
